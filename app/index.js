@@ -6,7 +6,7 @@ import { COLORS, icons, images, SIZES } from "../constants";
 import { Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome } from '../components'
 
 //ScrollView滾動視圖， SafeAreaView保存區域視圖
-
+ 
 const Home = () => {
   const router = useRouter()
 
